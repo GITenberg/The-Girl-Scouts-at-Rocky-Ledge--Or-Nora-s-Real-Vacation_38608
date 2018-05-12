@@ -1,0 +1,32 @@
+_repo: The-Girl-Scouts-at-Rocky-Ledge--Or-Nora-s-Real-Vacation_38608
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garis, Lilian
+    aliases:
+    - Garis, Howard Roger, Mrs.
+    - Garis, Lilian C. McNamara
+    birthdate: 1873
+    deathdate: 1954
+    gutenberg_agent_id: '1754'
+    url: http://www.gutenberg.org/2009/agents/1754
+description: ''
+gutenberg_issued: '2012-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Girl Scouts -- Juvenile fiction'
+- !lcsh 'Homeless youth -- Juvenile fiction'
+- !lcsh 'Rescues -- Juvenile fiction'
+- !lcsh 'Interpersonal relations -- Juvenile fiction'
+title: The Girl Scouts at Rocky Ledge; Or, Nora's Real Vacation
+url: http://www.gutenberg.org/ebooks/38608
